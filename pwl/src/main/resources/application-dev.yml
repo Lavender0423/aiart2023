@@ -1,0 +1,7 @@
+#日志
+logging:
+  level:
+    root: info
+    com.lavender.Blog: debug
+  file:
+    name: log/blog-dev.log

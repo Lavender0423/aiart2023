@@ -1,0 +1,9 @@
+#日志
+logging:
+  level:
+    root: warn
+    com.lavender.Blog: info
+  file:
+    name: log/blog-pro.log
+server:
+  port: 7070
